@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Lesson01/main.c" line="41" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="LearnSDL2" targetName="Lesson04" />
+      <config projectName="LearnSDL2" targetName="Lesson15" />
+      <config projectName="LearnSDL2" targetName="Lesson03" />
+      <config projectName="LearnSDL2" targetName="Lesson14" />
+      <config projectName="LearnSDL2" targetName="Lesson06" />
+      <config projectName="LearnSDL2" targetName="Lesson17" />
+      <config projectName="LearnSDL2" targetName="Lesson05" />
+      <config projectName="LearnSDL2" targetName="Lesson16" />
+      <config projectName="LearnSDL2" targetName="Lesson08" />
+      <config projectName="LearnSDL2" targetName="Lesson07" />
+      <config projectName="LearnSDL2" targetName="Lesson09" />
+      <config projectName="LearnSDL2" targetName="Lesson11" />
+      <config projectName="LearnSDL2" targetName="Lesson10" />
+      <config projectName="LearnSDL2" targetName="Lesson02" />
+      <config projectName="LearnSDL2" targetName="Lesson13" />
+      <config projectName="LearnSDL2" targetName="Lesson12" />
+      <config projectName="LearnSDL2" targetName="Lesson01" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1362c5dd-40c3-433f-a013-2cc52e779508" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson01/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson01/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson02/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson02/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson03/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson03/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson04/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson04/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson05/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson05/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson06/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson06/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson07/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson07/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson08/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson08/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson09/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson09/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/texture.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson10/texture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson11/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson11/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson11/texture.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson11/texture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson12/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson12/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson12/texture.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson12/texture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson13/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson13/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson13/texture.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson13/texture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson14/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson14/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson14/texture.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson14/texture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson15/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson15/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson15/texture.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson15/texture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson16/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson16/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson16/texture.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson16/texture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson17/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson17/LButton.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson17/LButton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson17/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson17/texture.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson17/texture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/MONACO.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/msyh.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ani.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/down.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/foo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hello_world.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/left.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/loaded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/press.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/right.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/small.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/up.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/x.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xx.jpeg" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson17/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1150">
+              <caret line="120" column="5" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
+              <folding>
+                <element signature="e#29#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson16/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="135" column="13" lean-forward="true" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
+              <folding>
+                <element signature="e#29#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>load_texture</find>
+      <find>Render</find>
+      <find>g_renderer</find>
+      <find>g_texture</find>
+      <find>g_text_texture</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="shx" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lesson4/main.c" />
+        <option value="$PROJECT_DIR$/Lesson5/main.c" />
+        <option value="$PROJECT_DIR$/Lesson6/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson6/main.c" />
+        <option value="$PROJECT_DIR$/Lesson7/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson8/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson8/main.c" />
+        <option value="$PROJECT_DIR$/Lesson9/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson7/main.c" />
+        <option value="$PROJECT_DIR$/Lesson9/main.c" />
+        <option value="$PROJECT_DIR$/Lesson3/main.c" />
+        <option value="$PROJECT_DIR$/Lesson10/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson10/texture.h" />
+        <option value="$PROJECT_DIR$/Lesson10/texture.c" />
+        <option value="$PROJECT_DIR$/Lesson10/main.c" />
+        <option value="$PROJECT_DIR$/Lesson11/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson09/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson08/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson07/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson06/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson05/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson04/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson03/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson02/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson01/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson11/texture.h" />
+        <option value="$PROJECT_DIR$/Lesson11/texture.c" />
+        <option value="$PROJECT_DIR$/Lesson11/main.c" />
+        <option value="$PROJECT_DIR$/Lesson12/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson12/texture.h" />
+        <option value="$PROJECT_DIR$/Lesson12/texture.c" />
+        <option value="$PROJECT_DIR$/Lesson12/main.c" />
+        <option value="$PROJECT_DIR$/Lesson13/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson13/texture.h" />
+        <option value="$PROJECT_DIR$/Lesson13/texture.c" />
+        <option value="$PROJECT_DIR$/Lesson13/main.c" />
+        <option value="$PROJECT_DIR$/Lesson14/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson14/main.c" />
+        <option value="$PROJECT_DIR$/Lesson15/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson15/texture.h" />
+        <option value="$PROJECT_DIR$/Lesson15/texture.c" />
+        <option value="$PROJECT_DIR$/Lesson15/main.c" />
+        <option value="$PROJECT_DIR$/Lesson16/texture.h" />
+        <option value="$PROJECT_DIR$/Lesson16/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson16/texture.c" />
+        <option value="$PROJECT_DIR$/Lesson16/main.c" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson17/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson17/main.c" />
+        <option value="$PROJECT_DIR$/Lesson17/LButton.c" />
+        <option value="$PROJECT_DIR$/Lesson17/LButton.h" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="118" />
+    <option name="width" value="1026" />
+    <option name="height" value="558" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Source Files'; set:Project Source Files; class com.jetbrains.cidr.lang.search.scopes.ProjectSourcesScopeProvider$SourceFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LearnSDL2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnSDL2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Source Files'; set:Project Source Files; class com.jetbrains.cidr.lang.search.scopes.ProjectSourcesScopeProvider$SourceFilesScope">
+          <expand>
+            <path>
+              <item name="LearnSDL2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/CLionProjects/LearnSDL2" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="LearnSDL2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/CLionProjects/LearnSDL2" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lesson1" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="?" />
+      <command value="Lesson17" />
+      <command value="ls" />
+      <command value="dir" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Lesson17">
+    <configuration name="Lesson01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson02" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson03" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson04" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson04" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson04">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson05" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson06" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson06">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson07" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson07">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson08" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson08">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson09" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson09" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson09">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson11" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson12" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson12">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson13" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson13" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson13">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson14" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson14" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson14">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson15" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson15" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson15">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson16" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson16" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson16">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson17" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson17" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson17">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Lesson01" />
+      <item itemvalue="CMake Application.Lesson02" />
+      <item itemvalue="CMake Application.Lesson03" />
+      <item itemvalue="CMake Application.Lesson04" />
+      <item itemvalue="CMake Application.Lesson05" />
+      <item itemvalue="CMake Application.Lesson06" />
+      <item itemvalue="CMake Application.Lesson07" />
+      <item itemvalue="CMake Application.Lesson08" />
+      <item itemvalue="CMake Application.Lesson09" />
+      <item itemvalue="CMake Application.Lesson10" />
+      <item itemvalue="CMake Application.Lesson11" />
+      <item itemvalue="CMake Application.Lesson12" />
+      <item itemvalue="CMake Application.Lesson13" />
+      <item itemvalue="CMake Application.Lesson14" />
+      <item itemvalue="CMake Application.Lesson15" />
+      <item itemvalue="CMake Application.Lesson16" />
+      <item itemvalue="CMake Application.Lesson17" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1362c5dd-40c3-433f-a013-2cc52e779508" name="Default Changelist" comment="" />
+      <created>1557061742189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557061742189</updated>
+      <workItem from="1557061745947" duration="371000" />
+      <workItem from="1557062236071" duration="20526000" />
+      <workItem from="1557156871403" duration="6824000" />
+      <workItem from="1557559007099" duration="18556000" />
+      <workItem from="1557651637524" duration="4298000" />
+      <workItem from="1557918712531" duration="76000" />
+      <workItem from="1558274134440" duration="817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51468000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="1378" height="748" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.536643" visible="true" weight="0.24318182" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3133117" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987034" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32901135" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" visible="true" weight="0.32084692" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32901135" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.2771475" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32954547" />
+      <window_info anchor="right" id="Structure" order="4" sideWeight="0.46335697" visible="true" weight="0.14545454" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/include/SDL2/SDL_pixels.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="424" column="31" selection-start-line="424" selection-start-column="31" selection-end-line="424" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson10/texture.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1471">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+          <folding>
+            <element signature="e#35#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson10/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="65" column="75" selection-start-line="65" selection-start-column="75" selection-end-line="65" selection-end-column="75" />
+          <folding>
+            <element signature="e#29#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson10/texture.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="e#93#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson09/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson08/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson07/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson06/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson03/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson02/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson04/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson05/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/texture.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="65" column="67" selection-start-line="65" selection-start-column="67" selection-end-line="65" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_rect.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson11/texture.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson12/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson12/texture.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="37" selection-start-line="37" selection-end-line="37" selection-end-column="82" />
+          <folding>
+            <element signature="e#93#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson12/texture.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson13/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="42" />
+          <folding>
+            <element signature="e#29#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson12/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="94" column="55" selection-start-line="94" selection-start-column="55" selection-end-line="94" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson13/texture.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="91" column="28" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson13/texture.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson14/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson14/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="82" column="30" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson14/texture.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson13/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="99" selection-start-line="99" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//home/shx/CLionProjects/LearnSDL2/Lesson01;/home/shx/CLionProjects/LearnSDL2/Lesson02;/home/shx/CLionProjects/LearnSDL2/Lesson03;/home/shx/CLionProjects/LearnSDL2/Lesson04;/home/shx/CLionProjects/LearnSDL2/Lesson05;/home/shx/CLionProjects/LearnSDL2/Lesson06;/home/shx/CLionProjects/LearnSDL2/Lesson07;/home/shx/CLionProjects/LearnSDL2/Lesson08;/home/shx/CLionProjects/LearnSDL2/Lesson09;/home/shx/CLionProjects/LearnSDL2/Lesson10;/home/shx/CLionProjects/LearnSDL2/Lesson11;/home/shx/CLionProjects/LearnSDL2/Lesson12;/home/shx/CLionProjects/LearnSDL2/Lesson13;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/Lesson01;/home/shx/CLionProjects/LearnSDL2/Lesson02;/home/shx/CLionProjects/LearnSDL2/Lesson03;/home/shx/CLionProjects/LearnSDL2/Lesson04;/home/shx/CLionProjects/LearnSDL2/Lesson05;/home/shx/CLionProjects/LearnSDL2/Lesson06;/home/shx/CLionProjects/LearnSDL2/Lesson07;/home/shx/CLionProjects/LearnSDL2/Lesson08;/home/shx/CLionProjects/LearnSDL2/Lesson09;/home/shx/CLionProjects/LearnSDL2/Lesson10;/home/shx/CLionProjects/LearnSDL2/Lesson11;/home/shx/CLionProjects/LearnSDL2/Lesson12;/home/shx/CLionProjects/LearnSDL2/Lesson13;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="559.0" y="238.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_render.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="829" column="28" selection-start-line="829" selection-start-column="28" selection-end-line="829" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson15/texture.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="34" selection-start-line="34" selection-end-line="35" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson15/texture.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_stdinc.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1857">
+          <caret line="327" column="22" selection-start-line="327" selection-start-column="8" selection-end-line="327" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_ttf.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="168" column="38" selection-start-line="168" selection-start-column="38" selection-end-line="168" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson16/texture.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson15/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="164" column="12" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson16/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson15/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson16/texture.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="101" column="51" selection-start-line="101" selection-start-column="51" selection-end-line="101" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson17/texture.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson17/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/book/lazyfoo.net/tutorials/SDL/17_mouse_events/17_mouse_events/17_mouse_events.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson17/LButton.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+          <folding>
+            <element signature="e#94#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson17/texture.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson17/LButton.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="57" />
+          <folding>
+            <element signature="e#37#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson17/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="120" column="5" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
+          <folding>
+            <element signature="e#29#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson16/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="135" column="13" lean-forward="true" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
+          <folding>
+            <element signature="e#29#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

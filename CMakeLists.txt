@@ -1,0 +1,23 @@
+cmake_minimum_required(VERSION 3.14)
+
+project(LearnSDL2 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_subdirectory(Lesson01)
+add_subdirectory(Lesson02)
+add_subdirectory(Lesson03)
+add_subdirectory(Lesson04)
+add_subdirectory(Lesson05)
+add_subdirectory(Lesson06)
+add_subdirectory(Lesson07)
+add_subdirectory(Lesson08)
+add_subdirectory(Lesson09)
+add_subdirectory(Lesson10)
+add_subdirectory(Lesson11)
+add_subdirectory(Lesson12)
+add_subdirectory(Lesson13)
+add_subdirectory(Lesson14)
+add_subdirectory(Lesson15)
+add_subdirectory(Lesson16)
+add_subdirectory(Lesson17)

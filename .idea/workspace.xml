@@ -9,19 +9,21 @@
       <config projectName="LearnSDL2" targetName="Lesson15" />
       <config projectName="LearnSDL2" targetName="Lesson03" />
       <config projectName="LearnSDL2" targetName="Lesson14" />
-      <config projectName="LearnSDL2" targetName="Lesson06" />
       <config projectName="LearnSDL2" targetName="Lesson17" />
+      <config projectName="LearnSDL2" targetName="Lesson06" />
       <config projectName="LearnSDL2" targetName="Lesson05" />
       <config projectName="LearnSDL2" targetName="Lesson16" />
       <config projectName="LearnSDL2" targetName="Lesson08" />
       <config projectName="LearnSDL2" targetName="Lesson07" />
       <config projectName="LearnSDL2" targetName="Lesson09" />
+      <config projectName="LearnSDL2" targetName="Lesson17_" />
+      <config projectName="LearnSDL2" targetName="mi" />
       <config projectName="LearnSDL2" targetName="Lesson11" />
       <config projectName="LearnSDL2" targetName="Lesson10" />
       <config projectName="LearnSDL2" targetName="Lesson02" />
       <config projectName="LearnSDL2" targetName="Lesson13" />
-      <config projectName="LearnSDL2" targetName="Lesson12" />
       <config projectName="LearnSDL2" targetName="Lesson01" />
+      <config projectName="LearnSDL2" targetName="Lesson12" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -31,77 +33,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1362c5dd-40c3-433f-a013-2cc52e779508" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson01/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson01/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson02/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson02/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson03/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson03/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson04/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson04/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson05/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson05/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson06/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson06/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson07/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson07/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson08/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson08/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson09/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson09/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/texture.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson10/texture.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson11/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson11/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson11/texture.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson11/texture.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson12/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson12/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson12/texture.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson12/texture.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson13/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson13/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson13/texture.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson13/texture.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson14/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson14/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson14/texture.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson14/texture.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson15/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson15/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson15/texture.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson15/texture.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16/texture.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson16/texture.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17/LButton.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17/LButton.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17/texture.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson17/texture.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/MONACO.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/msyh.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ani.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/down.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/foo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hello_world.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/left.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/loaded.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/press.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/right.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/small.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sprites.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/up.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/x.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/xx.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/shx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson17_/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson17_/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mi/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mi/app.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mi/app.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mi/app_error.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mi/app_error.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mi/app_window.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mi/app_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mi/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson17/LButton.h" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson17/LButton.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson17/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson17/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson17/texture.h" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson17/texture.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -129,26 +77,68 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson17/main.c">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mi/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1150">
-              <caret line="120" column="5" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
+            <state relative-caret-position="147">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
               <folding>
-                <element signature="e#29#50#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson16/main.c">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mi/app_error.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="135" column="13" lean-forward="true" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
+            <state relative-caret-position="210">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mi/app.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding>
-                <element signature="e#29#50#0" expanded="true" />
+                <element signature="e#87#107#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mi/app_window.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72">
+              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+              <folding>
+                <element signature="e#36#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/SDL2/SDL_video.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="458" column="39" selection-start-line="458" selection-start-column="19" selection-end-line="458" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mi/app.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+              <folding>
+                <element signature="e#36#57#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,6 +160,7 @@
       <find>g_renderer</find>
       <find>g_texture</find>
       <find>g_text_texture</find>
+      <find>loadFromFile</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -183,17 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lesson4/main.c" />
-        <option value="$PROJECT_DIR$/Lesson5/main.c" />
-        <option value="$PROJECT_DIR$/Lesson6/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/Lesson6/main.c" />
-        <option value="$PROJECT_DIR$/Lesson7/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/Lesson8/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/Lesson8/main.c" />
-        <option value="$PROJECT_DIR$/Lesson9/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/Lesson7/main.c" />
-        <option value="$PROJECT_DIR$/Lesson9/main.c" />
-        <option value="$PROJECT_DIR$/Lesson3/main.c" />
         <option value="$PROJECT_DIR$/Lesson10/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Lesson10/texture.h" />
         <option value="$PROJECT_DIR$/Lesson10/texture.c" />
@@ -229,24 +209,35 @@
         <option value="$PROJECT_DIR$/Lesson16/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Lesson16/texture.c" />
         <option value="$PROJECT_DIR$/Lesson16/main.c" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Lesson17/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/Lesson17/main.c" />
         <option value="$PROJECT_DIR$/Lesson17/LButton.c" />
+        <option value="$PROJECT_DIR$/Lesson17/texture.h" />
         <option value="$PROJECT_DIR$/Lesson17/LButton.h" />
+        <option value="$PROJECT_DIR$/Lesson17/main.c" />
+        <option value="$PROJECT_DIR$/Lesson17_/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Lesson17_/main.c" />
+        <option value="$PROJECT_DIR$/Lesson17_/main.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/mi/app_error.h" />
+        <option value="$PROJECT_DIR$/mi/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/mi/app.h" />
+        <option value="$PROJECT_DIR$/mi/app_window.h" />
+        <option value="$PROJECT_DIR$/mi/app_window.c" />
+        <option value="$PROJECT_DIR$/mi/app.c" />
+        <option value="$PROJECT_DIR$/mi/main.c" />
       </list>
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="118" />
-    <option name="width" value="1026" />
-    <option name="height" value="558" />
+    <option name="x" value="1757" />
+    <option name="y" value="15" />
+    <option name="width" value="1598" />
+    <option name="height" value="899" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Source Files'; set:Project Source Files; class com.jetbrains.cidr.lang.search.scopes.ProjectSourcesScopeProvider$SourceFilesScope" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -266,7 +257,7 @@
           <expand>
             <path>
               <item name="LearnSDL2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/CLionProjects/LearnSDL2" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="~/workspace/clion/LearnSDL2" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -275,7 +266,12 @@
           <expand>
             <path>
               <item name="LearnSDL2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/CLionProjects/LearnSDL2" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="~/workspace/clion/LearnSDL2" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="LearnSDL2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/workspace/clion/LearnSDL2" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="mi" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -297,6 +293,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Lesson1" />
@@ -322,7 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.Lesson17">
+  <component name="RunManager" selected="CMake Application.mi">
     <configuration name="Lesson01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson01">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -408,6 +405,16 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson17_" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="Lesson17_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="Lesson17_">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnSDL2" TARGET_NAME="mi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnSDL2" RUN_TARGET_NAME="mi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.Lesson01" />
       <item itemvalue="CMake Application.Lesson02" />
@@ -426,6 +433,8 @@
       <item itemvalue="CMake Application.Lesson15" />
       <item itemvalue="CMake Application.Lesson16" />
       <item itemvalue="CMake Application.Lesson17" />
+      <item itemvalue="CMake Application.Lesson17_" />
+      <item itemvalue="CMake Application.mi" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -445,11 +454,13 @@
       <workItem from="1557651637524" duration="4298000" />
       <workItem from="1557918712531" duration="76000" />
       <workItem from="1558274134440" duration="817000" />
+      <workItem from="1558516559650" duration="2646000" />
+      <workItem from="1558581764200" duration="11907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51468000" />
+    <option name="totallyTimeSpent" value="66021000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,19 +472,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1378" height="748" extended-state="6" />
+    <frame x="1598" y="0" width="1604" height="902" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.536643" visible="true" weight="0.24318182" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.536643" visible="true" weight="0.16344917" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3133117" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31314433" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39819586" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32901135" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" visible="true" weight="0.32084692" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.31829897" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32901135" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -482,7 +494,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.32954547" />
-      <window_info anchor="right" id="Structure" order="4" sideWeight="0.46335697" visible="true" weight="0.14545454" />
+      <window_info anchor="right" id="Structure" order="4" sideWeight="0.46335697" visible="true" weight="0.14543115" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,134 +505,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/include/SDL2/SDL_pixels.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="424" column="31" selection-start-line="424" selection-start-column="31" selection-end-line="424" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson10/texture.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1471">
-          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          <folding>
-            <element signature="e#35#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson10/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="65" column="75" selection-start-line="65" selection-start-column="75" selection-end-line="65" selection-end-column="75" />
-          <folding>
-            <element signature="e#29#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson11/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson10/texture.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="10" />
-          <folding>
-            <element signature="e#93#114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson09/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson08/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson07/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson06/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson03/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson02/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson01/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson04/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson05/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson11/texture.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson11/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="65" column="67" selection-start-line="65" selection-start-column="67" selection-end-line="65" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/SDL2/SDL_rect.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="67" column="2" selection-start-line="67" selection-start-column="2" selection-end-line="67" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson11/texture.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
@@ -656,16 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson01/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="35" column="42" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="42" />
-          <folding>
-            <element signature="e#29#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -813,13 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson17/texture.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson17/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -827,41 +694,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$USER_HOME$/book/lazyfoo.net/tutorials/SDL/17_mouse_events/17_mouse_events/17_mouse_events.cpp" />
+    <entry file="file://$PROJECT_DIR$/Lesson16/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="122">
+          <caret line="135" column="13" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/book/lazyfoo.net/tutorials/SDL/17_mouse_events/17_mouse_events/17_mouse_events.cpp">
+    <entry file="file://$PROJECT_DIR$/Lesson17/texture.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="168">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson17/texture.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="111" column="18" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson17/LButton.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        <state relative-caret-position="-110">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
           <folding>
             <element signature="e#94#120#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson17/texture.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson17/LButton.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="57" />
+        <state relative-caret-position="-42">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
           <folding>
             <element signature="e#37#57#0" expanded="true" />
           </folding>
@@ -870,20 +738,151 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson17/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="120" column="5" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
+        <state relative-caret-position="159">
+          <caret line="137" column="12" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
           <folding>
             <element signature="e#29#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson16/main.c">
+    <entry file="file://$PROJECT_DIR$/Lesson17_/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="135" column="13" lean-forward="true" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
+        <state relative-caret-position="168">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson17_/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3234">
+          <caret line="406" column="53" selection-start-line="406" selection-start-column="53" selection-end-line="406" selection-end-column="53" />
+          <folding>
+            <element signature="e#177#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/features.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2646" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/error.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/errno.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/app_error.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="92" column="36" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_image.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="81" column="28" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
           <folding>
             <element signature="e#29#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/app_window.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_events.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-211">
+          <caret line="560" column="2" selection-start-line="560" selection-start-column="2" selection-end-line="560" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/app.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+          <folding>
+            <element signature="e#36#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_video.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="458" column="39" selection-start-line="458" selection-start-column="19" selection-end-line="458" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/app_window.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="e#36#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/app.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="e#87#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/app_error.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

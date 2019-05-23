@@ -6,6 +6,7 @@
 #define LEARNSDL2_TEXTURE_H
 
 #include <SDL2/SDL.h>
+#include <SDL2/SDL_ttf.h>
 #include <stdbool.h>
 
 typedef struct {

@@ -6,6 +6,7 @@
 #include <stdbool.h>
 #include <locale.h>
 #include "texture.h"
+#include "LButton.h"
 
 // Screen dimension constants
 const int SCREEN_WIDTH = 640;
@@ -56,6 +57,8 @@ int main(int argc, char *argv[]) {
                     if (e.type == SDL_QUIT) {
                         quit = true;
                     }
+
+                    for(int i = 0; i < BUTTON_SPRITE_TOTAL)
                 }
 
                 SDL_SetRenderDrawColor(g_renderer, 0xFF, 0xFF, 0xFF, 0xFF);

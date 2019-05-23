@@ -18,7 +18,7 @@ typedef enum {
     BUTTON_SPRITE_MOUSE_OVER_MOTION = 1,
     BUTTON_SPRITE_MOUSE_DOWN = 2,
     BUTTON_SPRITE_MOUSE_UP = 3,
-    BUTTON_SPRITE_TOTAL = 4;
+    BUTTON_SPRITE_TOTAL = 4
 } LButtonSprite;
 
 typedef struct {
